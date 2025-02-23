@@ -1,4 +1,4 @@
-name: LYU Jincai-肖航课题组  Xiao Research Group
+name: LYU Jincai
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页
+  - title: 个人主页
     link: /
   - title: 工作经历
     link: /research.html
-  - title: 参与项目
+  - title: 论文和项目
     link: /publications.html
